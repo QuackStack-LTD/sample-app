@@ -1,0 +1,11 @@
+#btnid {
+    color: purple; 
+    background-color: pink; 
+    border: none; 
+    padding: 5px;
+    border-radius: 3px;
+}
+
+#btnid:hover {
+    background-color: rgb(253, 157, 173); 
+}
